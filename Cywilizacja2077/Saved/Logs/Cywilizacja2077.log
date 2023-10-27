@@ -4029,3 +4029,1748 @@ LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable
 [2023.10.27-18.15.56:883][326]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 1.13 sec)
 [2023.10.27-18.15.56:903][326]AssetCheck: New page: Asset Save: BP_Pawn
 [2023.10.27-18.15.56:903][326]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Core/Player/BP_Pawn.BP_Pawn
+[2023.10.27-18.18.03:116][811]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.27-18.18.03:134][811]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.27-18.18.03:143][812]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.10.27-18.18.07:921][381]LogContentBrowser: Attempting asset rename: NewFolder -> DebugMenu
+[2023.10.27-18.18.07:940][381]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.27-18.18.38:924][868]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2023.10.27-18.18.59:121][501]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2023.10.27-18.18.59:137][501]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.10.27-18.18.59:142][501]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.10.27-18.18.59:214][503]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.10.27-18.19.06:530][321]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> W_DebugMenu
+[2023.10.27-18.19.06:753][321]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.10.27-18.19.15:032][796]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu
+[2023.10.27-18.19.15:033][796]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-18.19.15:033][796]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.27-18.19.15:058][796]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-18.19.15:058][796]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.27-18.19.15:066][796]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.10.27-18.19.16:467][796]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.10.27-18.19.16:486][796]LogSlate: Took 0.017627 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.10.27-18.19.37:006][948]LogSlate: Window 'Widget Reflector' being destroyed
+[2023.10.27-18.19.37:014][948]LogSlate: Window 'Widget Reflector' being destroyed
+[2023.10.27-18.19.40:174][298]SourceControl: fatal: E:/Gry/UE_5.3/Engine/Source/Runtime/UMG/Public/Components: 'E:/Gry/UE_5.3/Engine/Source/Runtime/UMG/Public/Components' is outside repository at 'E:/ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077'
+[2023.10.27-18.19.40:258][308]SourceControl: fatal: E:/Gry/UE_5.3/Engine/Source/Runtime/UMG/Public/Components: 'E:/Gry/UE_5.3/Engine/Source/Runtime/UMG/Public/Components' is outside repository at 'E:/ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077'
+[2023.10.27-18.19.40:258][308]SourceControl: fatal: E:/Gry/UE_5.3/Engine/Source/Runtime/AdvancedWidgets/Public/Components/RadialSlider.h: 'E:/Gry/UE_5.3/Engine/Source/Runtime/AdvancedWidgets/Public/Components/RadialSlider.h' is outside repository at 'E:/ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077'
+[2023.10.27-18.19.48:801][297]LogEditorTransaction: Undo Create Pin Link
+[2023.10.27-18.19.49:117][301]LogEditorTransaction: Undo Recombine Struct Pin
+[2023.10.27-18.19.49:434][318]LogEditorTransaction: Undo Move Node
+[2023.10.27-18.19.49:817][359]LogEditorTransaction: Undo Create Pin Link
+[2023.10.27-18.19.50:289][413]LogEditorTransaction: Undo Move Node
+[2023.10.27-18.19.50:620][452]LogEditorTransaction: Undo Add Node
+[2023.10.27-18.21.01:371][690]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.10.27-18.21.01:386][690]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.10.27-18.21.01:393][690]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.10.27-18.21.01:404][691]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.10.27-18.21.08:310][473]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_DebugMenu
+[2023.10.27-18.21.08:486][473]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.10.27-18.21.20:772][884]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/DebugMenu/BP_DebugMenu.BP_DebugMenu
+[2023.10.27-18.21.20:772][884]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-18.21.20:772][884]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.27-18.21.21:072][884]LogViewport: Scene viewport resized to 1141x885, mode Windowed.
+[2023.10.27-18.22.35:142][965]BlueprintLog: New page: Compile BP_DebugMenu
+[2023.10.27-18.22.35:205][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.10.27-18.22.35:758][  7]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-18.22.35:831][  7]LogSavePackage: Moving output files for package: /Game/Blueprints/DebugMenu/BP_DebugMenu
+[2023.10.27-18.22.35:831][  7]LogSavePackage: Moving '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Saved/BP_DebugMenu4C0A350C4F0FF335B76EDB9D8E4B314E.tmp' to '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Content/Blueprints/DebugMenu/BP_DebugMenu.uasset'
+[2023.10.27-18.22.36:187][  7]LogFileHelpers: InternalPromptForCheckoutAndSave took 429 ms (total: 1.56 sec)
+[2023.10.27-18.22.36:188][  7]AssetCheck: New page: Asset Save: BP_DebugMenu
+[2023.10.27-18.22.36:188][  7]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/DebugMenu/BP_DebugMenu.BP_DebugMenu
+[2023.10.27-18.22.44:539][979]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/DebugMenu/BP_DebugMenu.BP_DebugMenu_C
+[2023.10.27-18.22.44:539][979]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/DebugMenu/BP_DebugMenu.BP_DebugMenu_C
+[2023.10.27-18.22.44:540][979]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/DebugMenu/BP_DebugMenu.BP_DebugMenu as actor: BP_DebugMenu_C /Game/Maps/L_Entry.L_Entry:PersistentLevel.BP_DebugMenu_C_0
+[2023.10.27-18.22.44:541][979]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/DebugMenu/BP_DebugMenu.BP_DebugMenu as actor: BP_DebugMenu_C /Game/Maps/L_Entry.L_Entry:PersistentLevel.BP_DebugMenu_C_0
+[2023.10.27-18.22.44:767][995]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/DebugMenu/BP_DebugMenu.BP_DebugMenu_C
+[2023.10.27-18.22.44:767][995]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/DebugMenu/BP_DebugMenu.BP_DebugMenu_C
+[2023.10.27-18.22.44:769][995]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/DebugMenu/BP_DebugMenu.BP_DebugMenu as actor: BP_DebugMenu_C /Game/Maps/L_Entry.L_Entry:PersistentLevel.BP_DebugMenu_C_1
+[2023.10.27-18.22.44:770][995]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/DebugMenu/BP_DebugMenu.BP_DebugMenu as actor: BP_DebugMenu_C /Game/Maps/L_Entry.L_Entry:PersistentLevel.BP_DebugMenu_C_1
+[2023.10.27-18.22.57:782][149]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.27-18.22.57:813][149]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.10.27-18.22.57:813][149]LogPlayLevel: [PlayLevel] Compiling BP_Pawn before play...
+[2023.10.27-18.22.57:879][149]LogPlayLevel: [PlayLevel] Compiling W_DebugMenu before play...
+[2023.10.27-18.22.57:953][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.10.27-18.22.57:955][149]LogPlayLevel: PlayLevel: Blueprint regeneration took 142 ms (2 blueprints)
+[2023.10.27-18.22.57:955][149]PIE: New page: PIE session: L_Entry (27 paź 2023, 22:22:57)
+[2023.10.27-18.22.57:955][149]LogPlayLevel: Display: Creating online subsystem for client :Context_21
+[2023.10.27-18.22.57:959][149]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2023.10.27-18.22.57:975][150]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Entry
+[2023.10.27-18.22.57:976][150]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001426s)
+[2023.10.27-18.22.57:976][150]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Entry.L_Entry to /Game/Maps/UEDPIE_0_L_Entry.L_Entry (0.001569s)
+[2023.10.27-18.22.57:994][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.10.27-18.22.57:996][150]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-18.22.57:996][150]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.27-18.22.57:997][150]LogAIModule: Creating AISystem for world L_Entry
+[2023.10.27-18.22.57:997][150]LogPlayLevel: PIE: World Init took: (0.001441s)
+[2023.10.27-18.22.57:997][150]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.10.27-18.22.57:997][150]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.27-18.22.57:997][150]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.27-18.22.57:997][150]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.27-18.22.57:997][150]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.27-18.22.57:997][150]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.27-18.22.57:997][150]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.27-18.22.57:997][150]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.27-18.22.57:997][150]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.27-18.22.57:998][150]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.27-18.22.57:998][150]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.27-18.22.57:998][150]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.27-18.22.58:001][150]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.27-18.22.58:120][150]LogAudioMixer: Display: Using Audio Hardware Device Głośniki +SSE3 (Realtek(R) Audio)
+[2023.10.27-18.22.58:121][150]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.27-18.22.58:121][150]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.27-18.22.58:121][150]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.27-18.22.58:122][150]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.10.27-18.22.58:122][150]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.10.27-18.22.58:125][150]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.10.27-18.22.58:125][150]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.10.27-18.22.58:125][150]LogInit: FAudioDevice initialized with ID 14.
+[2023.10.27-18.22.58:125][150]LogAudio: Display: Audio Device (ID: 14) registered with world 'L_Entry'.
+[2023.10.27-18.22.58:125][150]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2023.10.27-18.22.58:176][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-18.22.58:200][150]LogLoad: Game class is 'BP_GM_C'
+[2023.10.27-18.22.58:200][150]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 0) at 2023.10.27-20.22.58
+[2023.10.27-18.22.58:201][150]LogWorld: Bringing up level for play took: 0.000646
+[2023.10.27-18.22.58:201][150]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.10.27-18.22.58:206][150]PIE: Server logged in
+[2023.10.27-18.22.58:208][150]PIE: Play in editor total start time 0,419 seconds.
+[2023.10.27-18.22.58:251][150]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.10.27-18.23.00:561][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-18.23.00:561][300]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Entry
+[2023.10.27-18.23.00:562][300]LogSlate: Window 'Cywilizacja2077 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.10.27-18.23.00:569][300]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-18.23.00:569][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-18.23.00:574][300]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.27-18.23.00:581][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-18.23.00:599][300]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2023.10.27-18.23.00:599][300]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.10.27-18.23.00:601][300]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.10.27-18.23.00:612][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.10.27-18.23.00:650][301]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.10.27-18.23.04:936][646]BlueprintLog: New page: Compile W_DebugMenu
+[2023.10.27-18.23.04:984][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.10.27-18.23.05:749][698]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-18.23.05:864][698]LogSavePackage: Moving output files for package: /Game/Blueprints/DebugMenu/W_DebugMenu
+[2023.10.27-18.23.05:864][698]LogSavePackage: Moving '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Saved/W_DebugMenu97402F3D44C01E5550ED6FB17C676D61.tmp' to '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Content/Blueprints/DebugMenu/W_DebugMenu.uasset'
+[2023.10.27-18.23.06:198][698]LogFileHelpers: InternalPromptForCheckoutAndSave took 449 ms (total: 2.01 sec)
+[2023.10.27-18.23.06:199][698]AssetCheck: New page: Asset Save: W_DebugMenu
+[2023.10.27-18.23.06:199][698]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu
+[2023.10.27-18.23.09:948][116]BlueprintLog: New page: Compile BP_Pawn
+[2023.10.27-18.23.09:995][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.10.27-18.23.10:707][159]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-18.23.10:758][159]LogSavePackage: Moving output files for package: /Game/Blueprints/Core/Player/BP_Pawn
+[2023.10.27-18.23.10:758][159]LogSavePackage: Moving '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Saved/BP_Pawn77FC014C4B35084ABB2454BB3FAA985F.tmp' to '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Content/Blueprints/Core/Player/BP_Pawn.uasset'
+[2023.10.27-18.23.10:772][159]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 2.07 sec)
+[2023.10.27-18.23.10:793][159]AssetCheck: New page: Asset Save: BP_Pawn
+[2023.10.27-18.23.10:793][159]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Core/Player/BP_Pawn.BP_Pawn
+[2023.10.27-18.23.12:277][303]BlueprintLog: New page: Compile BP_GM
+[2023.10.27-18.23.12:314][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.10.27-18.23.13:141][363]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-18.23.13:187][363]LogSavePackage: Moving output files for package: /Game/Blueprints/Core/Player/BP_GM
+[2023.10.27-18.23.13:188][363]LogSavePackage: Moving '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Saved/BP_GM1843481D4445EC2A44921BAE73C11CCF.tmp' to '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Content/Blueprints/Core/Player/BP_GM.uasset'
+[2023.10.27-18.23.13:200][363]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 2.13 sec)
+[2023.10.27-18.23.13:201][363]AssetCheck: New page: Asset Save: BP_GM
+[2023.10.27-18.23.13:201][363]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Core/Player/BP_GM.BP_GM
+[2023.10.27-18.23.14:182][465]BlueprintLog: New page: Compile BP_PC
+[2023.10.27-18.23.14:215][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.10.27-18.23.14:991][530]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-18.23.15:039][530]LogSavePackage: Moving output files for package: /Game/Blueprints/Core/Player/BP_PC
+[2023.10.27-18.23.15:040][530]LogSavePackage: Moving '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Saved/BP_PCAFB8440F40F22D795BBE7BB62C95ED8B.tmp' to '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Content/Blueprints/Core/Player/BP_PC.uasset'
+[2023.10.27-18.23.15:049][530]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 2.19 sec)
+[2023.10.27-18.23.15:059][530]AssetCheck: New page: Asset Save: BP_PC
+[2023.10.27-18.23.15:059][530]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Core/Player/BP_PC.BP_PC
+[2023.10.27-18.23.19:017][958]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-18.23.19:127][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.10.27-18.23.19:131][958]LogSavePackage: Moving output files for package: /Game/Maps/L_Entry
+[2023.10.27-18.23.19:132][958]LogSavePackage: Moving '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Saved/L_Entry05A1CDA24E821B39BAB70BA80D22CCBB.tmp' to '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Content/Maps/L_Entry.umap'
+[2023.10.27-18.23.19:142][958]LogFileHelpers: Saving map 'L_Entry' took 0.048
+[2023.10.27-18.23.19:175][958]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 2.35 sec)
+[2023.10.27-18.23.19:176][958]AssetCheck: New page: Asset Save: L_Entry
+[2023.10.27-18.23.19:176][958]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/L_Entry.L_Entry
+[2023.10.27-18.23.20:312][ 75]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.27-18.23.20:320][ 75]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.27-18.23.20:320][ 75]PIE: New page: PIE session: L_Entry (27 paź 2023, 22:23:20)
+[2023.10.27-18.23.20:320][ 75]LogPlayLevel: Display: Creating online subsystem for client :Context_22
+[2023.10.27-18.23.20:322][ 75]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2023.10.27-18.23.20:333][ 76]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Entry
+[2023.10.27-18.23.20:334][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001074s)
+[2023.10.27-18.23.20:334][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Entry.L_Entry to /Game/Maps/UEDPIE_0_L_Entry.L_Entry (0.001165s)
+[2023.10.27-18.23.20:351][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.10.27-18.23.20:352][ 76]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-18.23.20:352][ 76]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.27-18.23.20:353][ 76]LogAIModule: Creating AISystem for world L_Entry
+[2023.10.27-18.23.20:353][ 76]LogPlayLevel: PIE: World Init took: (0.001052s)
+[2023.10.27-18.23.20:353][ 76]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.10.27-18.23.20:353][ 76]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.27-18.23.20:353][ 76]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.27-18.23.20:353][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.27-18.23.20:353][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.27-18.23.20:353][ 76]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.27-18.23.20:353][ 76]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.27-18.23.20:353][ 76]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.27-18.23.20:353][ 76]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.27-18.23.20:354][ 76]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.27-18.23.20:354][ 76]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.27-18.23.20:354][ 76]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.27-18.23.20:356][ 76]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.27-18.23.20:432][ 76]LogAudioMixer: Display: Using Audio Hardware Device Głośniki +SSE3 (Realtek(R) Audio)
+[2023.10.27-18.23.20:432][ 76]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.27-18.23.20:432][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.27-18.23.20:432][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.27-18.23.20:434][ 76]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.10.27-18.23.20:434][ 76]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.10.27-18.23.20:436][ 76]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.10.27-18.23.20:437][ 76]LogInit: FAudioDevice initialized with ID 15.
+[2023.10.27-18.23.20:437][ 76]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.10.27-18.23.20:437][ 76]LogAudio: Display: Audio Device (ID: 15) registered with world 'L_Entry'.
+[2023.10.27-18.23.20:437][ 76]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2023.10.27-18.23.20:488][ 76]LogLoad: Game class is 'BP_GM_C'
+[2023.10.27-18.23.20:488][ 76]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 0) at 2023.10.27-20.23.20
+[2023.10.27-18.23.20:488][ 76]LogWorld: Bringing up level for play took: 0.000383
+[2023.10.27-18.23.20:490][ 76]PIE: Server logged in
+[2023.10.27-18.23.20:491][ 76]PIE: Play in editor total start time 0,171 seconds.
+[2023.10.27-18.23.24:740][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-18.23.24:741][489]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Entry
+[2023.10.27-18.23.24:741][489]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-18.23.24:741][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-18.23.24:746][489]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.27-18.23.24:751][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-18.23.24:767][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-18.23.24:767][489]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2023.10.27-18.23.24:767][489]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.10.27-18.23.24:770][489]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.10.27-18.23.24:778][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.10.27-18.23.24:826][490]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.10.27-18.24.42:813][210]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.27-18.24.42:820][210]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.10.27-18.24.42:821][210]LogPlayLevel: [PlayLevel] Compiling W_DebugMenu before play...
+[2023.10.27-18.24.43:080][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.10.27-18.24.43:082][210]LogPlayLevel: PlayLevel: Blueprint regeneration took 262 ms (1 blueprints)
+[2023.10.27-18.24.43:082][210]PIE: New page: PIE session: L_Entry (27 paź 2023, 22:24:43)
+[2023.10.27-18.24.43:083][210]LogPlayLevel: Display: Creating online subsystem for client :Context_23
+[2023.10.27-18.24.43:086][210]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2023.10.27-18.24.43:248][211]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Entry
+[2023.10.27-18.24.43:250][211]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001224s)
+[2023.10.27-18.24.43:250][211]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Entry.L_Entry to /Game/Maps/UEDPIE_0_L_Entry.L_Entry (0.001279s)
+[2023.10.27-18.24.43:267][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.10.27-18.24.43:270][211]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-18.24.43:270][211]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.27-18.24.43:271][211]LogAIModule: Creating AISystem for world L_Entry
+[2023.10.27-18.24.43:272][211]LogPlayLevel: PIE: World Init took: (0.001525s)
+[2023.10.27-18.24.43:272][211]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.10.27-18.24.43:272][211]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.27-18.24.43:272][211]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.27-18.24.43:272][211]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.27-18.24.43:272][211]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.27-18.24.43:272][211]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.27-18.24.43:272][211]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.27-18.24.43:272][211]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.27-18.24.43:272][211]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.27-18.24.43:272][211]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.27-18.24.43:273][211]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.27-18.24.43:273][211]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.27-18.24.43:275][211]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.27-18.24.43:356][211]LogAudioMixer: Display: Using Audio Hardware Device Głośniki +SSE3 (Realtek(R) Audio)
+[2023.10.27-18.24.43:356][211]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.27-18.24.43:356][211]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.27-18.24.43:356][211]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.27-18.24.43:358][211]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.10.27-18.24.43:358][211]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.10.27-18.24.43:360][211]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.10.27-18.24.43:360][211]LogInit: FAudioDevice initialized with ID 16.
+[2023.10.27-18.24.43:360][211]LogAudio: Display: Audio Device (ID: 16) registered with world 'L_Entry'.
+[2023.10.27-18.24.43:360][211]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.10.27-18.24.43:360][211]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2023.10.27-18.24.43:414][211]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-18.24.43:415][211]LogLoad: Game class is 'BP_GM_C'
+[2023.10.27-18.24.43:415][211]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 0) at 2023.10.27-20.24.43
+[2023.10.27-18.24.43:415][211]LogWorld: Bringing up level for play took: 0.000410
+[2023.10.27-18.24.43:416][211]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.10.27-18.24.43:441][211]PIE: Server logged in
+[2023.10.27-18.24.43:443][211]PIE: Play in editor total start time 0,624 seconds.
+[2023.10.27-18.24.43:486][211]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.10.27-18.24.52:511][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-18.24.52:511][870]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Entry
+[2023.10.27-18.24.52:511][870]LogSlate: Window 'Cywilizacja2077 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.10.27-18.24.52:518][870]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-18.24.52:518][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-18.24.52:522][870]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.27-18.24.52:529][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-18.24.52:550][870]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2023.10.27-18.24.52:550][870]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.10.27-18.24.52:554][870]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.10.27-18.24.52:562][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.10.27-18.24.52:608][871]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.10.27-18.26.57:430][975]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-18.26.57:430][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-18.26.57:452][975]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-18.26.57:452][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-18.27.05:391][655]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu
+[2023.10.27-18.27.05:391][655]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-18.27.05:391][655]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.27-18.27.05:401][655]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-18.27.05:401][655]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.27-18.27.09:215][962]SourceControl: Error: fatal: Invalid path 'E:/Gry/UE_5.3/Engine/Content/UMG': No such file or directory
+[2023.10.27-18.28.27:120][752]LogSlate: Took 0.063426 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.10.27-18.28.46:369][353]SourceControl: Error: fatal: Invalid path 'E:/Gry/UE_5.3/Engine/Content/UMG': No such file or directory
+[2023.10.27-18.30.05:096][529]BlueprintLog: New page: Compile W_DebugMenu
+[2023.10.27-18.30.05:143][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.10.27-18.30.05:190][529]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.27-18.30.06:107][561]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-18.30.06:172][561]LogSavePackage: Moving output files for package: /Game/Blueprints/DebugMenu/W_DebugMenu
+[2023.10.27-18.30.06:172][561]LogSavePackage: Moving '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Saved/W_DebugMenuABB50EFD44E2127DF507709544ED410D.tmp' to '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Content/Blueprints/DebugMenu/W_DebugMenu.uasset'
+[2023.10.27-18.30.06:183][561]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 2.42 sec)
+[2023.10.27-18.30.06:201][561]AssetCheck: New page: Asset Save: W_DebugMenu
+[2023.10.27-18.30.06:201][561]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu
+[2023.10.27-18.30.07:863][720]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.27-18.30.07:870][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.27-18.30.07:870][720]PIE: New page: PIE session: L_Entry (27 paź 2023, 22:30:07)
+[2023.10.27-18.30.07:870][720]LogPlayLevel: Display: Creating online subsystem for client :Context_26
+[2023.10.27-18.30.07:874][720]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.10.27-18.30.07:885][721]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Entry
+[2023.10.27-18.30.07:886][721]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001147s)
+[2023.10.27-18.30.07:886][721]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Entry.L_Entry to /Game/Maps/UEDPIE_0_L_Entry.L_Entry (0.001200s)
+[2023.10.27-18.30.07:905][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.10.27-18.30.07:908][721]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-18.30.07:908][721]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.27-18.30.07:908][721]LogAIModule: Creating AISystem for world L_Entry
+[2023.10.27-18.30.07:909][721]LogPlayLevel: PIE: World Init took: (0.001346s)
+[2023.10.27-18.30.07:909][721]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.10.27-18.30.07:909][721]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.27-18.30.07:909][721]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.27-18.30.07:909][721]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.27-18.30.07:909][721]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.27-18.30.07:909][721]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.27-18.30.07:909][721]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.27-18.30.07:909][721]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.27-18.30.07:909][721]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.27-18.30.07:910][721]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.27-18.30.07:910][721]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.27-18.30.07:910][721]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.27-18.30.07:913][721]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.27-18.30.08:219][721]LogAudioMixer: Display: Using Audio Hardware Device Głośniki +SSE3 (Realtek(R) Audio)
+[2023.10.27-18.30.08:220][721]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.27-18.30.08:220][721]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.27-18.30.08:220][721]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.27-18.30.08:220][721]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2023.10.27-18.30.08:221][721]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2023.10.27-18.30.08:224][721]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.10.27-18.30.08:224][721]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2023.10.27-18.30.08:224][721]LogInit: FAudioDevice initialized with ID 17.
+[2023.10.27-18.30.08:224][721]LogAudio: Display: Audio Device (ID: 17) registered with world 'L_Entry'.
+[2023.10.27-18.30.08:224][721]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2023.10.27-18.30.08:227][721]LogLoad: Game class is 'BP_GM_C'
+[2023.10.27-18.30.08:228][721]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 0) at 2023.10.27-20.30.08
+[2023.10.27-18.30.08:229][721]LogWorld: Bringing up level for play took: 0.001637
+[2023.10.27-18.30.08:232][721]PIE: Server logged in
+[2023.10.27-18.30.08:237][721]PIE: Play in editor total start time 0,368 seconds.
+[2023.10.27-18.30.11:701][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-18.30.11:701][835]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Entry
+[2023.10.27-18.30.11:701][835]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-18.30.11:701][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-18.30.11:706][835]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.27-18.30.11:712][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-18.30.11:729][835]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.27-18.30.11:730][835]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2023.10.27-18.30.11:730][835]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.10.27-18.30.11:732][835]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.10.27-18.30.11:740][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-18.30.11:743][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.10.27-18.30.11:795][836]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.10.27-18.32.33:199][  9]BlueprintLog: New page: Compile W_DebugMenu
+[2023.10.27-18.32.33:238][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.10.27-18.32.33:926][ 34]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-18.32.33:989][ 34]LogSavePackage: Moving output files for package: /Game/Blueprints/DebugMenu/W_DebugMenu
+[2023.10.27-18.32.33:989][ 34]LogSavePackage: Moving '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Saved/W_DebugMenuE1A844794FBA161F942BF59B2728C2F1.tmp' to '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Content/Blueprints/DebugMenu/W_DebugMenu.uasset'
+[2023.10.27-18.32.34:001][ 34]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 2.50 sec)
+[2023.10.27-18.32.34:066][ 34]AssetCheck: New page: Asset Save: W_DebugMenu
+[2023.10.27-18.32.34:066][ 34]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu
+[2023.10.27-18.35.24:766][863]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-18.35.24:766][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-18.35.26:669][ 31]BlueprintLog: New page: Compile W_DebugMenu
+[2023.10.27-18.35.26:711][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.10.27-18.35.29:938][304]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-18.35.29:986][304]LogSavePackage: Moving output files for package: /Game/Blueprints/DebugMenu/W_DebugMenu
+[2023.10.27-18.35.29:986][304]LogSavePackage: Moving '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Saved/W_DebugMenu24F8CDB745425F8D3C5381ACB21DB10D.tmp' to '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Content/Blueprints/DebugMenu/W_DebugMenu.uasset'
+[2023.10.27-18.35.30:000][304]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 2.56 sec)
+[2023.10.27-18.35.30:045][304]AssetCheck: New page: Asset Save: W_DebugMenu
+[2023.10.27-18.35.30:045][304]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu
+[2023.10.27-18.36.56:754][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.10.27-18.36.56:756][478]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Entry' took 0.025
+[2023.10.27-18.36.56:756][478]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/DebugMenu/W_DebugMenu] ([2] browsable assets)...
+[2023.10.27-18.36.56:760][478]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu]
+[2023.10.27-18.36.56:760][478]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DebugMenu/W_DebugMenu]
+[2023.10.27-18.36.56:799][478]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/DebugMenu/W_DebugMenu_Auto5
+[2023.10.27-18.36.56:799][478]LogSavePackage: Moving '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Saved/W_DebugMenu_Auto5431846E64F1FE53FB189829CAF011A1F.tmp' to '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Saved/Autosaves/Game/Blueprints/DebugMenu/W_DebugMenu_Auto5.uasset'
+[2023.10.27-18.36.56:800][478]LogFileHelpers: Auto-saving content packages took 0.044
+[2023.10.27-18.38.03:335][393]LogWindows: LaunchFileInExternalEditor E:/Gry/UE_5.3/Engine/Source/Runtime/UMG/Public/Components/Button.h 
+[2023.10.27-18.38.03:657][393]LogWindows: Launch application code for E:/Gry/UE_5.3/Engine/Source/Runtime/UMG/Public/Components/Button.h : 42
+[2023.10.27-18.38.03:657][393]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2023.10.27-18.38.03:664][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:664][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:664][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:664][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:664][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:664][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:664][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:665][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:665][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:665][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:665][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:665][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:665][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:665][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:665][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:665][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:665][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:665][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:665][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:665][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:666][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:666][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:666][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:666][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:666][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:666][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:666][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:666][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:666][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:666][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:666][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:666][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:666][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:666][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:667][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:667][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:667][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:667][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:667][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:667][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:667][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:667][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:667][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:667][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:667][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:668][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:668][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:668][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:668][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:668][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:668][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:668][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:668][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:668][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:668][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:668][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:669][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:669][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:669][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:669][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:669][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:669][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:669][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:669][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:669][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:669][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:669][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:670][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:670][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:670][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:670][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:670][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:670][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:670][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:670][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:670][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:670][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:670][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:670][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:671][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:671][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:671][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:671][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:671][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:671][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:671][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:671][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:671][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:671][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:671][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:671][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:671][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:672][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:672][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:672][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:672][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:672][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:672][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:672][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:672][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:672][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:672][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:672][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:672][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:672][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:673][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:673][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:673][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:673][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:673][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:673][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:673][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:673][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:673][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:673][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:673][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:673][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:673][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:673][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:674][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:674][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:674][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:674][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:674][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:691][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:721][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:721][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:725][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:731][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:731][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:731][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:748][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:757][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:758][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:764][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:764][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:764][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:766][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:766][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:809][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:816][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:816][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:816][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:816][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:816][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:816][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:816][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:816][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:816][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:816][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:816][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:816][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:817][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:817][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:817][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:817][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:817][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:817][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:817][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:817][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:817][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:817][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:817][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:817][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:817][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:817][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:818][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:818][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:818][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:818][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:818][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:818][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:818][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:818][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:818][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:818][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:818][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:818][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:818][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:819][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:819][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:819][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:819][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:819][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:819][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:819][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:819][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:819][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:819][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:819][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:819][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:819][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:820][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:820][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:820][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:820][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:820][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:820][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:820][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:820][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:820][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:820][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:820][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:820][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:821][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:821][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:821][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:821][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:821][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:821][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:821][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:821][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:821][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:821][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:821][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:821][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:821][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:822][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:822][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:822][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:822][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:822][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:822][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:822][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:822][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:822][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:822][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:822][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:822][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:822][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:823][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:823][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:823][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:823][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:823][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:823][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:823][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:823][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:823][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:823][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:823][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:823][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:823][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:824][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:824][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:824][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:824][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:824][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:824][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:824][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:824][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:824][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:824][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:824][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:825][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:825][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:825][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:825][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:825][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:825][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:825][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:825][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:825][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:825][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:837][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:861][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:861][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:865][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:869][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:869][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:869][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:886][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:893][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:894][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:899][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:899][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:899][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:900][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:900][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:939][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:946][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:946][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:946][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:946][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:946][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:947][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:947][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:947][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:947][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:947][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:947][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:947][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:947][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:947][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:947][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:947][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:947][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:948][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:948][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:948][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:948][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:948][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:948][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:948][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:948][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:948][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:948][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:948][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:948][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:949][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:949][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:949][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:949][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:949][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:949][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:949][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:949][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:949][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:949][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:949][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:949][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:949][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:950][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:950][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:950][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:950][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:950][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:950][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:950][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:950][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:950][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:950][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:950][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:950][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:951][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:951][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:951][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:951][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:951][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:951][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:951][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:951][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:951][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:951][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:951][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:951][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:951][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:952][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:952][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:952][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:952][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:952][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:952][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:952][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:952][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:952][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:952][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:952][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:952][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:953][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:953][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:953][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:953][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:953][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:953][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:953][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:953][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:953][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:953][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:954][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:954][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:954][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:954][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:954][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:954][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:954][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:954][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:954][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:954][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:954][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:954][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:955][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:955][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:955][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:955][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:955][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:955][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:955][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:955][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:955][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:955][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:955][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:955][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:956][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:956][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:956][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:956][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:956][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:956][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:956][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:956][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:956][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:956][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:956][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:968][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:991][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:992][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.03:996][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:000][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:000][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:000][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:016][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:023][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:023][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:028][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:028][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:028][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:029][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:029][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:066][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:077][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:077][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:077][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:077][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:077][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:077][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:077][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:077][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:077][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:077][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:078][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:078][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:078][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:078][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:078][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:078][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:078][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:078][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:078][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:078][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:078][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:078][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:078][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:079][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:079][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:079][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:079][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:079][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:079][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:079][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:079][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:079][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:079][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:079][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:079][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:079][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:080][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:080][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:080][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:080][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:080][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:080][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:080][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:080][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:080][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:080][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:080][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:080][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:080][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:081][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:081][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:081][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:081][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:081][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:081][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:081][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:081][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:081][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:081][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:082][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:082][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:082][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:082][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:082][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:082][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:082][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:082][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:082][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:082][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:082][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:082][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:082][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:083][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:083][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:083][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:083][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:083][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:083][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:083][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:083][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:083][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:083][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:083][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:083][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:083][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:084][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:084][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:084][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:084][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:084][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:084][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:084][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:084][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:084][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:084][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:084][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:084][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:085][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:085][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:085][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:085][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:085][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:085][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:085][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:085][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:085][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:085][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:085][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:085][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:086][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:086][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:086][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:086][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:086][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:086][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:086][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:086][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:086][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:086][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:086][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:087][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:087][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:087][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:087][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:099][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:125][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:126][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:131][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:134][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:134][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:135][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:150][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:158][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:159][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:163][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:163][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:163][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:164][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:164][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:200][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:206][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:206][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:206][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:206][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:206][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:206][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:206][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:206][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:207][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:207][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:207][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:207][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:207][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:207][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:207][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:207][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:207][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:207][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:207][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:207][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:208][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:208][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:208][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:208][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:208][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:208][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:208][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:208][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:208][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:208][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:208][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:209][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:209][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:209][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:209][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:209][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:209][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:209][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:209][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:209][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:209][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:209][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:209][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:209][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:210][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:210][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:210][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:210][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:210][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:210][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:210][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:210][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:210][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:210][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:210][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:210][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:210][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:211][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:211][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:211][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:211][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:211][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:211][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:211][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:211][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:211][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:211][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:211][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:211][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:211][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:212][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:212][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:212][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:212][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:212][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:212][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:212][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:212][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:212][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:212][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:212][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:212][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:213][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:213][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:213][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:213][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:213][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:213][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:213][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:213][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:213][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:213][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:213][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:213][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:213][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:213][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:214][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:214][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:214][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:214][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:214][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:214][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:214][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:214][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:214][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:214][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:214][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:214][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:214][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:214][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:215][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:215][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:215][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:215][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:215][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:215][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:215][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:215][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:215][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:215][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:215][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:215][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:215][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:215][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:228][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:252][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:252][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:257][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:260][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:260][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:261][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:276][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:283][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:284][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:289][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:289][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:289][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:290][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:290][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:327][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:333][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:333][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:333][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:333][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:333][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:333][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:333][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:333][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:334][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:334][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:334][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:334][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:334][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:334][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:334][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:334][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:334][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:334][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:335][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:335][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:335][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:335][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:335][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:335][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:335][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:335][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:335][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:335][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:335][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:335][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:336][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:336][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:336][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:336][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:336][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:336][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:336][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:336][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:336][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:336][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:336][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:336][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:336][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:337][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:337][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:337][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:337][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:337][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:337][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:337][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:337][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:337][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:337][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:337][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:337][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:337][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:337][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:338][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:338][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:338][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:338][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:338][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:338][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:338][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:338][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:338][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:338][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:339][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:339][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:339][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:339][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:339][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:339][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:339][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:339][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:339][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:339][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:339][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:339][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:339][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:339][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:339][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:340][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:340][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:340][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:340][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:340][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:340][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:340][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:340][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:341][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:341][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:341][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:341][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:341][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:341][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:341][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:341][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:341][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:341][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:341][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:341][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:342][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:342][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:342][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:342][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:342][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:342][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:342][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:342][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:342][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:342][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:342][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:342][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:342][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:342][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:343][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:343][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:343][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:343][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:343][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:343][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:343][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:343][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:355][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:377][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:377][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:381][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:385][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:385][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:385][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:401][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:408][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:409][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:413][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:414][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:414][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:415][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:415][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.04:450][393]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.27-18.38.12:691][148]LogDerivedDataCache: C:/Users/rafal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.161 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2118 files in 3238 folders with total size 111 MiB.
+[2023.10.27-18.39.42:349][334]BlueprintLog: New page: Compile W_DebugMenu
+[2023.10.27-18.39.42:431][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.10.27-18.39.44:858][589]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-18.39.44:918][589]LogSavePackage: Moving output files for package: /Game/Blueprints/DebugMenu/W_DebugMenu
+[2023.10.27-18.39.44:919][589]LogSavePackage: Moving '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Saved/W_DebugMenuDFEFC60A4364A530BDA65485B65C2C45.tmp' to '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Content/Blueprints/DebugMenu/W_DebugMenu.uasset'
+[2023.10.27-18.39.44:929][589]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 2.63 sec)
+[2023.10.27-18.39.44:930][589]AssetCheck: New page: Asset Save: W_DebugMenu
+[2023.10.27-18.39.44:930][589]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu
+[2023.10.27-18.39.53:835][621]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.27-18.39.53:842][621]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.27-18.39.53:842][621]PIE: New page: PIE session: L_Entry (27 paź 2023, 22:39:53)
+[2023.10.27-18.39.53:842][621]LogPlayLevel: Display: Creating online subsystem for client :Context_27
+[2023.10.27-18.39.53:846][621]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2023.10.27-18.39.53:857][622]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Entry
+[2023.10.27-18.39.53:858][622]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001318s)
+[2023.10.27-18.39.53:858][622]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Entry.L_Entry to /Game/Maps/UEDPIE_0_L_Entry.L_Entry (0.001390s)
+[2023.10.27-18.39.53:877][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.10.27-18.39.53:879][622]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-18.39.53:879][622]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.27-18.39.53:880][622]LogAIModule: Creating AISystem for world L_Entry
+[2023.10.27-18.39.53:880][622]LogPlayLevel: PIE: World Init took: (0.001277s)
+[2023.10.27-18.39.53:880][622]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.10.27-18.39.53:880][622]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.27-18.39.53:880][622]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.27-18.39.53:880][622]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.27-18.39.53:880][622]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.27-18.39.53:880][622]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.27-18.39.53:880][622]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.27-18.39.53:880][622]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.27-18.39.53:880][622]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.27-18.39.53:881][622]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.27-18.39.53:881][622]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.27-18.39.53:881][622]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.27-18.39.53:884][622]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.27-18.39.53:962][622]LogAudioMixer: Display: Using Audio Hardware Device Głośniki +SSE3 (Realtek(R) Audio)
+[2023.10.27-18.39.53:963][622]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.27-18.39.53:963][622]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.27-18.39.53:963][622]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.27-18.39.53:964][622]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.10.27-18.39.53:964][622]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2023.10.27-18.39.53:966][622]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.10.27-18.39.53:967][622]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.10.27-18.39.53:967][622]LogInit: FAudioDevice initialized with ID 18.
+[2023.10.27-18.39.53:967][622]LogAudio: Display: Audio Device (ID: 18) registered with world 'L_Entry'.
+[2023.10.27-18.39.53:967][622]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2023.10.27-18.39.53:970][622]LogLoad: Game class is 'BP_GM_C'
+[2023.10.27-18.39.53:970][622]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 0) at 2023.10.27-20.39.53
+[2023.10.27-18.39.53:971][622]LogWorld: Bringing up level for play took: 0.000431
+[2023.10.27-18.39.53:975][622]PIE: Server logged in
+[2023.10.27-18.39.53:975][622]PIE: Play in editor total start time 0,133 seconds.
+[2023.10.27-18.40.02:411][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-18.40.02:411][488]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Entry
+[2023.10.27-18.40.02:411][488]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-18.40.02:411][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-18.40.02:415][488]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.27-18.40.02:422][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-18.40.02:440][488]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.27-18.40.02:440][488]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2023.10.27-18.40.02:440][488]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.10.27-18.40.02:442][488]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.10.27-18.40.02:450][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-18.40.02:452][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.10.27-18.40.02:504][489]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.10.27-18.40.40:615][703]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.27-18.40.40:622][703]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.10.27-18.40.40:623][703]LogPlayLevel: [PlayLevel] Compiling W_DebugMenu before play...
+[2023.10.27-18.40.40:740][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.10.27-18.40.40:742][703]LogPlayLevel: PlayLevel: Blueprint regeneration took 120 ms (1 blueprints)
+[2023.10.27-18.40.40:742][703]PIE: New page: PIE session: L_Entry (27 paź 2023, 22:40:40)
+[2023.10.27-18.40.40:742][703]LogPlayLevel: Display: Creating online subsystem for client :Context_28
+[2023.10.27-18.40.40:746][703]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2023.10.27-18.40.40:833][704]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Entry
+[2023.10.27-18.40.40:834][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001131s)
+[2023.10.27-18.40.40:834][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Entry.L_Entry to /Game/Maps/UEDPIE_0_L_Entry.L_Entry (0.001183s)
+[2023.10.27-18.40.40:851][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.10.27-18.40.40:854][704]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-18.40.40:854][704]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.27-18.40.40:854][704]LogAIModule: Creating AISystem for world L_Entry
+[2023.10.27-18.40.40:855][704]LogPlayLevel: PIE: World Init took: (0.001239s)
+[2023.10.27-18.40.40:855][704]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.10.27-18.40.40:855][704]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.27-18.40.40:855][704]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.27-18.40.40:855][704]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.27-18.40.40:855][704]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.27-18.40.40:855][704]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.27-18.40.40:855][704]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.27-18.40.40:855][704]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.27-18.40.40:855][704]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.27-18.40.40:856][704]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.27-18.40.40:856][704]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.27-18.40.40:856][704]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.27-18.40.40:858][704]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.27-18.40.40:930][704]LogAudioMixer: Display: Using Audio Hardware Device Głośniki +SSE3 (Realtek(R) Audio)
+[2023.10.27-18.40.40:931][704]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.27-18.40.40:931][704]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.27-18.40.40:931][704]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.27-18.40.40:933][704]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2023.10.27-18.40.40:933][704]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2023.10.27-18.40.40:935][704]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2023.10.27-18.40.40:935][704]LogInit: FAudioDevice initialized with ID 19.
+[2023.10.27-18.40.40:935][704]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2023.10.27-18.40.40:935][704]LogAudio: Display: Audio Device (ID: 19) registered with world 'L_Entry'.
+[2023.10.27-18.40.40:935][704]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2023.10.27-18.40.40:992][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-18.40.40:992][704]LogLoad: Game class is 'BP_GM_C'
+[2023.10.27-18.40.40:993][704]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 0) at 2023.10.27-20.40.40
+[2023.10.27-18.40.40:993][704]LogWorld: Bringing up level for play took: 0.000518
+[2023.10.27-18.40.40:993][704]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.10.27-18.40.40:999][704]PIE: Server logged in
+[2023.10.27-18.40.41:001][704]PIE: Play in editor total start time 0,379 seconds.
+[2023.10.27-18.40.41:068][704]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.10.27-18.40.45:241][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-18.40.45:241][ 10]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Entry
+[2023.10.27-18.40.45:241][ 10]LogSlate: Window 'Cywilizacja2077 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.10.27-18.40.45:248][ 10]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-18.40.45:248][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-18.40.45:251][ 10]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.27-18.40.45:256][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-18.40.45:279][ 10]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2023.10.27-18.40.45:279][ 10]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.10.27-18.40.45:281][ 10]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.10.27-18.40.45:292][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.10.27-18.40.45:335][ 11]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.10.27-18.44.44:676][518]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.27-18.44.44:682][518]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.10.27-18.44.44:684][518]LogPlayLevel: [PlayLevel] Compiling W_DebugMenu before play...
+[2023.10.27-18.44.44:732][518]LogBlueprint: Error: [AssetLog] E:\ProgramowanieNew\Game\UnrealEngine\Cywilizacja2077\Cywilizacja2077\Content\Blueprints\DebugMenu\W_DebugMenu.uasset: [Compiler] This blueprint (self) is not a WidgetSwitcher, therefore ' Target ' must have a connection.
+[2023.10.27-18.44.44:834][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.10.27-18.44.44:837][518]LogPlayLevel: PlayLevel: Blueprint regeneration took 154 ms (1 blueprints)
+[2023.10.27-18.44.44:837][518]BlueprintLog: Warning: Blueprint failed to compile:  W_DebugMenu
+[2023.10.27-18.44.48:644][518]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.10.27-18.44.51:112][771]LogSlate: Window 'Message Log' being destroyed
+[2023.10.27-18.44.51:118][771]LogSlate: Window 'Message Log' being destroyed
+[2023.10.27-18.44.52:406][922]BlueprintLog: New page: Compile W_DebugMenu
+[2023.10.27-18.44.52:410][922]LogBlueprint: Error: [AssetLog] E:\ProgramowanieNew\Game\UnrealEngine\Cywilizacja2077\Cywilizacja2077\Content\Blueprints\DebugMenu\W_DebugMenu.uasset: [Compiler] This blueprint (self) is not a WidgetSwitcher, therefore ' Target ' must have a connection.
+[2023.10.27-18.44.52:467][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.10.27-18.45.12:400][429]BlueprintLog: New page: Compile W_DebugMenu
+[2023.10.27-18.45.12:444][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.10.27-18.45.13:536][526]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-18.45.13:651][526]LogSavePackage: Moving output files for package: /Game/Blueprints/DebugMenu/W_DebugMenu
+[2023.10.27-18.45.13:651][526]LogSavePackage: Moving '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Saved/W_DebugMenu4DBF1DB0496BA55D2F29B1B15ECE0FEC.tmp' to '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Content/Blueprints/DebugMenu/W_DebugMenu.uasset'
+[2023.10.27-18.45.13:663][526]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 2.76 sec)
+[2023.10.27-18.45.13:726][526]AssetCheck: New page: Asset Save: W_DebugMenu
+[2023.10.27-18.45.13:726][526]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu
+[2023.10.27-18.45.15:930][660]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.27-18.45.15:939][660]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.27-18.45.15:939][660]PIE: New page: PIE session: L_Entry (27 paź 2023, 22:45:15)
+[2023.10.27-18.45.15:939][660]LogPlayLevel: Display: Creating online subsystem for client :Context_29
+[2023.10.27-18.45.15:941][660]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2023.10.27-18.45.15:963][661]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Entry
+[2023.10.27-18.45.15:964][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001412s)
+[2023.10.27-18.45.15:964][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Entry.L_Entry to /Game/Maps/UEDPIE_0_L_Entry.L_Entry (0.001490s)
+[2023.10.27-18.45.15:983][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.10.27-18.45.15:984][661]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-18.45.15:985][661]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.27-18.45.15:985][661]LogAIModule: Creating AISystem for world L_Entry
+[2023.10.27-18.45.15:986][661]LogPlayLevel: PIE: World Init took: (0.001223s)
+[2023.10.27-18.45.15:986][661]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.10.27-18.45.15:986][661]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.27-18.45.15:986][661]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.27-18.45.15:986][661]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.27-18.45.15:986][661]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.27-18.45.15:986][661]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.27-18.45.15:986][661]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.27-18.45.15:986][661]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.27-18.45.15:986][661]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.27-18.45.15:987][661]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.27-18.45.15:987][661]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.27-18.45.15:987][661]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.27-18.45.15:989][661]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.27-18.45.16:061][661]LogAudioMixer: Display: Using Audio Hardware Device Głośniki +SSE3 (Realtek(R) Audio)
+[2023.10.27-18.45.16:061][661]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.27-18.45.16:061][661]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.27-18.45.16:061][661]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.27-18.45.16:063][661]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2023.10.27-18.45.16:063][661]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2023.10.27-18.45.16:065][661]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2023.10.27-18.45.16:065][661]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2023.10.27-18.45.16:065][661]LogInit: FAudioDevice initialized with ID 20.
+[2023.10.27-18.45.16:065][661]LogAudio: Display: Audio Device (ID: 20) registered with world 'L_Entry'.
+[2023.10.27-18.45.16:065][661]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2023.10.27-18.45.16:107][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-18.45.16:107][661]LogLoad: Game class is 'BP_GM_C'
+[2023.10.27-18.45.16:107][661]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 0) at 2023.10.27-20.45.16
+[2023.10.27-18.45.16:107][661]LogWorld: Bringing up level for play took: 0.000458
+[2023.10.27-18.45.16:107][661]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.10.27-18.45.16:114][661]PIE: Server logged in
+[2023.10.27-18.45.16:117][661]PIE: Play in editor total start time 0,178 seconds.
+[2023.10.27-18.45.16:136][661]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.10.27-18.45.23:151][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-18.45.23:151][234]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Entry
+[2023.10.27-18.45.23:152][234]LogSlate: Window 'Cywilizacja2077 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.10.27-18.45.23:160][234]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-18.45.23:160][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-18.45.23:166][234]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.27-18.45.23:174][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-18.45.23:222][234]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.27-18.45.23:223][234]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2023.10.27-18.45.23:223][234]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.10.27-18.45.23:225][234]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.10.27-18.45.23:233][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.10.27-18.45.23:462][235]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.10.27-18.46.12:683][711]BlueprintLog: New page: Collapse to Function
+[2023.10.27-18.49.15:834][707]BlueprintLog: New page: Compile W_DebugMenu
+[2023.10.27-18.49.15:880][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.10.27-18.49.16:507][754]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-18.49.16:573][754]LogSavePackage: Moving output files for package: /Game/Blueprints/DebugMenu/W_DebugMenu
+[2023.10.27-18.49.16:574][754]LogSavePackage: Moving '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Saved/W_DebugMenu95D42D4A43D17F6025DEA4880548AE84.tmp' to '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Content/Blueprints/DebugMenu/W_DebugMenu.uasset'
+[2023.10.27-18.49.16:587][754]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 2.84 sec)
+[2023.10.27-18.49.16:597][754]AssetCheck: New page: Asset Save: W_DebugMenu
+[2023.10.27-18.49.16:597][754]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu
+[2023.10.27-18.50.21:764][ 53]BlueprintLog: New page: Compile W_DebugMenu
+[2023.10.27-18.50.21:813][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.10.27-18.50.22:575][115]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-18.50.22:640][115]LogSavePackage: Moving output files for package: /Game/Blueprints/DebugMenu/W_DebugMenu
+[2023.10.27-18.50.22:641][115]LogSavePackage: Moving '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Saved/W_DebugMenu0787320347CC9A9C6BDF83B957DD5323.tmp' to '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Content/Blueprints/DebugMenu/W_DebugMenu.uasset'
+[2023.10.27-18.50.22:652][115]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 2.92 sec)
+[2023.10.27-18.50.22:653][115]AssetCheck: New page: Asset Save: W_DebugMenu
+[2023.10.27-18.50.22:653][115]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu
+[2023.10.27-18.50.24:870][370]BlueprintLog: New page: Compile W_DebugMenu
+[2023.10.27-18.50.24:909][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.10.27-18.50.25:664][432]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-18.50.25:733][432]LogSavePackage: Moving output files for package: /Game/Blueprints/DebugMenu/W_DebugMenu
+[2023.10.27-18.50.25:733][432]LogSavePackage: Moving '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Saved/W_DebugMenu001FAACA49A1A99C8D07F3B7498A4E7B.tmp' to '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Content/Blueprints/DebugMenu/W_DebugMenu.uasset'
+[2023.10.27-18.50.25:744][432]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 2.99 sec)
+[2023.10.27-18.50.25:755][432]AssetCheck: New page: Asset Save: W_DebugMenu
+[2023.10.27-18.50.25:755][432]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu
+[2023.10.27-18.51.15:886][967]BlueprintLog: New page: Compile W_DebugMenu
+[2023.10.27-18.51.15:928][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.10.27-18.51.16:607][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-18.51.16:675][ 19]LogSavePackage: Moving output files for package: /Game/Blueprints/DebugMenu/W_DebugMenu
+[2023.10.27-18.51.16:675][ 19]LogSavePackage: Moving '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Saved/W_DebugMenu8BA1F8334E125923ED109A98EB535948.tmp' to '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Content/Blueprints/DebugMenu/W_DebugMenu.uasset'
+[2023.10.27-18.51.16:687][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 3.07 sec)
+[2023.10.27-18.51.16:701][ 19]AssetCheck: New page: Asset Save: W_DebugMenu
+[2023.10.27-18.51.16:701][ 19]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu
+[2023.10.27-18.53.09:353][223]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.27-18.53.26:179][585]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.27-18.53.36:712][755]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.27-18.55.08:769][600]LogEditorTransaction: Undo Move Node
+[2023.10.27-18.55.10:144][709]LogEditorTransaction: Redo Move Node
+[2023.10.27-18.55.57:023][340]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.27-18.55.57:032][340]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.10.27-18.55.57:033][340]LogPlayLevel: [PlayLevel] Compiling W_DebugMenu before play...
+[2023.10.27-18.55.57:125][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.10.27-18.55.57:128][340]LogPlayLevel: PlayLevel: Blueprint regeneration took 96 ms (1 blueprints)
+[2023.10.27-18.55.57:128][340]PIE: New page: PIE session: L_Entry (27 paź 2023, 22:55:57)
+[2023.10.27-18.55.57:128][340]LogPlayLevel: Display: Creating online subsystem for client :Context_30
+[2023.10.27-18.55.57:132][340]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2023.10.27-18.55.57:194][341]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Entry
+[2023.10.27-18.55.57:195][341]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001090s)
+[2023.10.27-18.55.57:195][341]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Entry.L_Entry to /Game/Maps/UEDPIE_0_L_Entry.L_Entry (0.001142s)
+[2023.10.27-18.55.57:212][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.10.27-18.55.57:214][341]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-18.55.57:214][341]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.27-18.55.57:215][341]LogAIModule: Creating AISystem for world L_Entry
+[2023.10.27-18.55.57:215][341]LogPlayLevel: PIE: World Init took: (0.001173s)
+[2023.10.27-18.55.57:215][341]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.10.27-18.55.57:215][341]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.27-18.55.57:215][341]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.27-18.55.57:215][341]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.27-18.55.57:215][341]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.27-18.55.57:215][341]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.27-18.55.57:215][341]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.27-18.55.57:215][341]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.27-18.55.57:215][341]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.27-18.55.57:216][341]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.27-18.55.57:216][341]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.27-18.55.57:216][341]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.27-18.55.57:218][341]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.27-18.55.57:292][341]LogAudioMixer: Display: Using Audio Hardware Device Głośniki +SSE3 (Realtek(R) Audio)
+[2023.10.27-18.55.57:293][341]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.27-18.55.57:293][341]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.27-18.55.57:293][341]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.27-18.55.57:294][341]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2023.10.27-18.55.57:294][341]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2023.10.27-18.55.57:296][341]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2023.10.27-18.55.57:296][341]LogInit: FAudioDevice initialized with ID 21.
+[2023.10.27-18.55.57:296][341]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2023.10.27-18.55.57:296][341]LogAudio: Display: Audio Device (ID: 21) registered with world 'L_Entry'.
+[2023.10.27-18.55.57:296][341]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2023.10.27-18.55.57:335][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-18.55.57:335][341]LogLoad: Game class is 'BP_GM_C'
+[2023.10.27-18.55.57:336][341]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 0) at 2023.10.27-20.55.57
+[2023.10.27-18.55.57:336][341]LogWorld: Bringing up level for play took: 0.000485
+[2023.10.27-18.55.57:337][341]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.10.27-18.55.57:343][341]PIE: Server logged in
+[2023.10.27-18.55.57:346][341]PIE: Play in editor total start time 0,315 seconds.
+[2023.10.27-18.55.57:420][341]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.10.27-18.56.07:471][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-18.56.07:471][113]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Entry
+[2023.10.27-18.56.07:471][113]LogSlate: Window 'Cywilizacja2077 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.10.27-18.56.07:481][113]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-18.56.07:481][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-18.56.07:484][113]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.27-18.56.07:490][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-18.56.07:514][113]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2023.10.27-18.56.07:515][113]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.10.27-18.56.07:517][113]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.10.27-18.56.07:525][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.10.27-18.56.07:572][114]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.10.27-18.56.19:565][380]BlueprintLog: New page: Compile W_DebugMenu
+[2023.10.27-18.56.19:606][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.10.27-18.56.20:325][439]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-18.56.20:379][439]LogSavePackage: Moving output files for package: /Game/Blueprints/DebugMenu/W_DebugMenu
+[2023.10.27-18.56.20:379][439]LogSavePackage: Moving '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Saved/W_DebugMenuE05A243B424D1C5799928CAC235B2AF2.tmp' to '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Content/Blueprints/DebugMenu/W_DebugMenu.uasset'
+[2023.10.27-18.56.20:391][439]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 3.14 sec)
+[2023.10.27-18.56.20:411][439]AssetCheck: New page: Asset Save: W_DebugMenu
+[2023.10.27-18.56.20:411][439]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu
+[2023.10.27-18.56.22:069][635]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.27-18.56.22:076][635]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.27-18.56.22:076][635]PIE: New page: PIE session: L_Entry (27 paź 2023, 22:56:22)
+[2023.10.27-18.56.22:076][635]LogPlayLevel: Display: Creating online subsystem for client :Context_31
+[2023.10.27-18.56.22:078][635]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2023.10.27-18.56.22:085][636]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Entry
+[2023.10.27-18.56.22:087][636]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001023s)
+[2023.10.27-18.56.22:087][636]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Entry.L_Entry to /Game/Maps/UEDPIE_0_L_Entry.L_Entry (0.001078s)
+[2023.10.27-18.56.22:104][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.10.27-18.56.22:106][636]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-18.56.22:106][636]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.27-18.56.22:106][636]LogAIModule: Creating AISystem for world L_Entry
+[2023.10.27-18.56.22:107][636]LogPlayLevel: PIE: World Init took: (0.001034s)
+[2023.10.27-18.56.22:107][636]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.10.27-18.56.22:107][636]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.27-18.56.22:107][636]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.27-18.56.22:107][636]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.27-18.56.22:107][636]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.27-18.56.22:107][636]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.27-18.56.22:107][636]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.27-18.56.22:107][636]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.27-18.56.22:107][636]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.27-18.56.22:107][636]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.27-18.56.22:107][636]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.27-18.56.22:107][636]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.27-18.56.22:110][636]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.27-18.56.22:183][636]LogAudioMixer: Display: Using Audio Hardware Device Głośniki +SSE3 (Realtek(R) Audio)
+[2023.10.27-18.56.22:183][636]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.27-18.56.22:183][636]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.27-18.56.22:183][636]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.27-18.56.22:186][636]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.10.27-18.56.22:186][636]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2023.10.27-18.56.22:188][636]LogInit: FAudioDevice initialized with ID 22.
+[2023.10.27-18.56.22:188][636]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.10.27-18.56.22:188][636]LogAudio: Display: Audio Device (ID: 22) registered with world 'L_Entry'.
+[2023.10.27-18.56.22:188][636]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.10.27-18.56.22:188][636]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2023.10.27-18.56.22:236][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-18.56.22:236][636]LogLoad: Game class is 'BP_GM_C'
+[2023.10.27-18.56.22:236][636]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 0) at 2023.10.27-20.56.22
+[2023.10.27-18.56.22:236][636]LogWorld: Bringing up level for play took: 0.000433
+[2023.10.27-18.56.22:237][636]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.10.27-18.56.22:244][636]PIE: Server logged in
+[2023.10.27-18.56.22:246][636]PIE: Play in editor total start time 0,171 seconds.
+[2023.10.27-18.56.22:272][636]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.10.27-18.56.29:221][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-18.56.29:221][302]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Entry
+[2023.10.27-18.56.29:222][302]LogSlate: Window 'Cywilizacja2077 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.10.27-18.56.29:229][302]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-18.56.29:229][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-18.56.29:232][302]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.27-18.56.29:236][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-18.56.29:256][302]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.27-18.56.29:256][302]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2023.10.27-18.56.29:256][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.10.27-18.56.29:259][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.10.27-18.56.29:299][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.10.27-18.56.29:341][303]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.10.27-19.00.19:583][597]LogEditorTransaction: Undo Move Node
+[2023.10.27-19.00.20:653][664]LogEditorTransaction: Undo Add Node
+[2023.10.27-19.02.21:405][364]BlueprintLog: New page: Compile W_DebugMenu
+[2023.10.27-19.02.21:458][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.10.27-19.02.22:486][450]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-19.02.22:560][450]LogSavePackage: Moving output files for package: /Game/Blueprints/DebugMenu/W_DebugMenu
+[2023.10.27-19.02.22:561][450]LogSavePackage: Moving '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Saved/W_DebugMenu03D3C71B4E1BC50596191789CF365779.tmp' to '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Content/Blueprints/DebugMenu/W_DebugMenu.uasset'
+[2023.10.27-19.02.22:572][450]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 3.23 sec)
+[2023.10.27-19.02.22:589][450]AssetCheck: New page: Asset Save: W_DebugMenu
+[2023.10.27-19.02.22:589][450]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu
+[2023.10.27-19.02.24:620][687]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.27-19.02.24:626][687]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.27-19.02.24:627][687]PIE: New page: PIE session: L_Entry (27 paź 2023, 23:02:24)
+[2023.10.27-19.02.24:627][687]LogPlayLevel: Display: Creating online subsystem for client :Context_32
+[2023.10.27-19.02.24:630][687]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2023.10.27-19.02.24:639][688]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Entry
+[2023.10.27-19.02.24:641][688]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001170s)
+[2023.10.27-19.02.24:641][688]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Entry.L_Entry to /Game/Maps/UEDPIE_0_L_Entry.L_Entry (0.001236s)
+[2023.10.27-19.02.24:659][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.10.27-19.02.24:661][688]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-19.02.24:662][688]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.27-19.02.24:662][688]LogAIModule: Creating AISystem for world L_Entry
+[2023.10.27-19.02.24:662][688]LogPlayLevel: PIE: World Init took: (0.001217s)
+[2023.10.27-19.02.24:663][688]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.10.27-19.02.24:663][688]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.27-19.02.24:663][688]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.27-19.02.24:663][688]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.27-19.02.24:663][688]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.27-19.02.24:663][688]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.27-19.02.24:663][688]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.27-19.02.24:663][688]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.27-19.02.24:663][688]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.27-19.02.24:664][688]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.27-19.02.24:664][688]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.27-19.02.24:664][688]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.27-19.02.24:666][688]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.27-19.02.24:741][688]LogAudioMixer: Display: Using Audio Hardware Device Głośniki +SSE3 (Realtek(R) Audio)
+[2023.10.27-19.02.24:742][688]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.27-19.02.24:742][688]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.27-19.02.24:742][688]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.27-19.02.24:743][688]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2023.10.27-19.02.24:743][688]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2023.10.27-19.02.24:745][688]LogInit: FAudioDevice initialized with ID 23.
+[2023.10.27-19.02.24:745][688]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2023.10.27-19.02.24:745][688]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2023.10.27-19.02.24:745][688]LogAudio: Display: Audio Device (ID: 23) registered with world 'L_Entry'.
+[2023.10.27-19.02.24:745][688]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2023.10.27-19.02.24:788][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-19.02.24:789][688]LogLoad: Game class is 'BP_GM_C'
+[2023.10.27-19.02.24:789][688]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 0) at 2023.10.27-21.02.24
+[2023.10.27-19.02.24:789][688]LogWorld: Bringing up level for play took: 0.000452
+[2023.10.27-19.02.24:789][688]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.10.27-19.02.24:798][688]PIE: Server logged in
+[2023.10.27-19.02.24:801][688]PIE: Play in editor total start time 0,175 seconds.
+[2023.10.27-19.02.24:828][688]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.10.27-19.02.31:321][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-19.02.31:321][195]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Entry
+[2023.10.27-19.02.31:322][195]LogSlate: Window 'Cywilizacja2077 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.10.27-19.02.31:328][195]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-19.02.31:329][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-19.02.31:332][195]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.27-19.02.31:337][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-19.02.31:358][195]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.27-19.02.31:359][195]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2023.10.27-19.02.31:359][195]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.10.27-19.02.31:361][195]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.10.27-19.02.31:369][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.10.27-19.02.31:416][196]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.10.27-19.02.42:850][422]BlueprintLog: New page: Compile W_DebugMenu
+[2023.10.27-19.02.42:900][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.10.27-19.02.43:498][461]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-19.02.43:582][461]LogSavePackage: Moving output files for package: /Game/Blueprints/DebugMenu/W_DebugMenu
+[2023.10.27-19.02.43:582][461]LogSavePackage: Moving '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Saved/W_DebugMenu1816BB5E443C5EC2D1FAD3B99CAD503A.tmp' to '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Content/Blueprints/DebugMenu/W_DebugMenu.uasset'
+[2023.10.27-19.02.43:593][461]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 3.32 sec)
+[2023.10.27-19.02.43:635][461]AssetCheck: New page: Asset Save: W_DebugMenu
+[2023.10.27-19.02.43:635][461]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu
+[2023.10.27-19.02.46:255][570]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.27-19.02.46:261][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.27-19.02.46:262][570]PIE: New page: PIE session: L_Entry (27 paź 2023, 23:02:46)
+[2023.10.27-19.02.46:262][570]LogPlayLevel: Display: Creating online subsystem for client :Context_33
+[2023.10.27-19.02.46:265][570]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2023.10.27-19.02.46:275][571]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Entry
+[2023.10.27-19.02.46:276][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001073s)
+[2023.10.27-19.02.46:276][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Entry.L_Entry to /Game/Maps/UEDPIE_0_L_Entry.L_Entry (0.001127s)
+[2023.10.27-19.02.46:301][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.10.27-19.02.46:303][571]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-19.02.46:304][571]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.27-19.02.46:304][571]LogAIModule: Creating AISystem for world L_Entry
+[2023.10.27-19.02.46:305][571]LogPlayLevel: PIE: World Init took: (0.001463s)
+[2023.10.27-19.02.46:305][571]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.10.27-19.02.46:305][571]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.27-19.02.46:305][571]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.27-19.02.46:305][571]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.27-19.02.46:305][571]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.27-19.02.46:305][571]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.27-19.02.46:305][571]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.27-19.02.46:305][571]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.27-19.02.46:305][571]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.27-19.02.46:306][571]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.27-19.02.46:306][571]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.27-19.02.46:306][571]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.27-19.02.46:308][571]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.27-19.02.46:384][571]LogAudioMixer: Display: Using Audio Hardware Device Głośniki +SSE3 (Realtek(R) Audio)
+[2023.10.27-19.02.46:385][571]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.27-19.02.46:385][571]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.27-19.02.46:385][571]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.27-19.02.46:387][571]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2023.10.27-19.02.46:387][571]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2023.10.27-19.02.46:389][571]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2023.10.27-19.02.46:389][571]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2023.10.27-19.02.46:389][571]LogInit: FAudioDevice initialized with ID 24.
+[2023.10.27-19.02.46:389][571]LogAudio: Display: Audio Device (ID: 24) registered with world 'L_Entry'.
+[2023.10.27-19.02.46:389][571]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2023.10.27-19.02.46:435][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-19.02.46:435][571]LogLoad: Game class is 'BP_GM_C'
+[2023.10.27-19.02.46:435][571]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 0) at 2023.10.27-21.02.46
+[2023.10.27-19.02.46:436][571]LogWorld: Bringing up level for play took: 0.000555
+[2023.10.27-19.02.46:436][571]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.10.27-19.02.46:445][571]PIE: Server logged in
+[2023.10.27-19.02.46:448][571]PIE: Play in editor total start time 0,187 seconds.
+[2023.10.27-19.02.46:479][571]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.10.27-19.03.51:021][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-19.03.51:022][419]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Entry
+[2023.10.27-19.03.51:022][419]LogSlate: Window 'Cywilizacja2077 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.10.27-19.03.51:047][419]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-19.03.51:047][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-19.03.51:058][419]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.27-19.03.51:075][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-19.03.51:113][419]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.27-19.03.51:113][419]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2023.10.27-19.03.51:114][419]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.10.27-19.03.51:120][419]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.10.27-19.03.51:135][419]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.10.27-19.03.51:314][420]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.10.27-19.03.59:747][185]LogEditorTransaction: Undo Move Node
+[2023.10.27-19.04.31:157][ 24]BlueprintLog: New page: Collapse to Function
+[2023.10.27-19.04.33:513][286]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(754)].
+[2023.10.27-19.04.33:556][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.10.27-19.04.33:558][286]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Entry' took 0.025
+[2023.10.27-19.04.33:559][286]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/DebugMenu/W_DebugMenu] ([2] browsable assets)...
+[2023.10.27-19.04.33:566][286]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu]
+[2023.10.27-19.04.33:566][286]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DebugMenu/W_DebugMenu]
+[2023.10.27-19.04.33:581][286]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/DebugMenu/W_DebugMenu_Auto6
+[2023.10.27-19.04.33:581][286]LogSavePackage: Moving '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Saved/W_DebugMenu_Auto605FEEBB143F5581E051ECDA37A56C63F.tmp' to '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Saved/Autosaves/Game/Blueprints/DebugMenu/W_DebugMenu_Auto6.uasset'
+[2023.10.27-19.04.33:582][286]LogFileHelpers: Auto-saving content packages took 0.024
+[2023.10.27-19.06.49:088][832]BlueprintLog: New page: Compile W_DebugMenu
+[2023.10.27-19.06.49:138][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.10.27-19.06.50:023][907]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-19.06.50:097][907]LogSavePackage: Moving output files for package: /Game/Blueprints/DebugMenu/W_DebugMenu
+[2023.10.27-19.06.50:097][907]LogSavePackage: Moving '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Saved/W_DebugMenu0122AA684D64B9EA91E1C6A6DB6347F5.tmp' to '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Content/Blueprints/DebugMenu/W_DebugMenu.uasset'
+[2023.10.27-19.06.50:109][907]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 3.41 sec)
+[2023.10.27-19.06.50:121][907]AssetCheck: New page: Asset Save: W_DebugMenu
+[2023.10.27-19.06.50:121][907]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu
+[2023.10.27-19.06.51:694][ 65]BlueprintLog: New page: Compile BP_Pawn
+[2023.10.27-19.06.51:747][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.10.27-19.06.52:480][104]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-19.06.52:544][104]LogSavePackage: Moving output files for package: /Game/Blueprints/Core/Player/BP_Pawn
+[2023.10.27-19.06.52:544][104]LogSavePackage: Moving '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Saved/BP_Pawn8F0A49F5442817B412831BAC93A31EB5.tmp' to '../../../../../ProgramowanieNew/Game/UnrealEngine/Cywilizacja2077/Cywilizacja2077/Content/Blueprints/Core/Player/BP_Pawn.uasset'
+[2023.10.27-19.06.52:557][104]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 3.48 sec)
+[2023.10.27-19.06.52:566][104]AssetCheck: New page: Asset Save: BP_Pawn
+[2023.10.27-19.06.52:566][104]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Core/Player/BP_Pawn.BP_Pawn
